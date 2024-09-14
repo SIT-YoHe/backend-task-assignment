@@ -110,9 +110,7 @@ Content-Type: application/json
 ```bash
 200 OK
 {
-  "uid": 3,
-  "name": "Charlie",
-  "email": "charlie@example.com"
+  "uid": 3
 }
 ```
 
@@ -134,11 +132,6 @@ Content-Type: application/json
 
 ```json
 200 OK
-{
-  "uid": 1,
-  "name": "Alice Smith",
-  "email": "alice.smith@example.com"
-}
 ```
 
 ##### 删除用户
